@@ -1,0 +1,95 @@
+#image {
+    box-shadow:10px 10px 5px black;
+}
+.card, ul {
+    margin:20px;
+    box-shadow:10px 10px 5px #3273DC;
+    margin:20px;
+}
+
+
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  .center {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #FFFFFF;
+  }
+  .wave {
+    width: 5px;
+    height: 100px;
+    background: linear-gradient(45deg, #3273DC, #fff);
+    margin: 10px;
+    animation: wave 1s linear infinite;
+    border-radius: 20px;
+  }
+  .wave:nth-child(2) {
+    animation-delay: 0.1s;
+  }
+  .wave:nth-child(3) {
+    animation-delay: 0.2s;
+  }
+  .wave:nth-child(4) {
+    animation-delay: 0.3s;
+  }
+  .wave:nth-child(5) {
+    animation-delay: 0.4s;
+  }
+  .wave:nth-child(6) {
+    animation-delay: 0.5s;
+  }
+  .wave:nth-child(7) {
+    animation-delay: 0.6s;
+  }
+  .wave:nth-child(8) {
+    animation-delay: 0.7s;
+  }
+  .wave:nth-child(9) {
+    animation-delay: 0.8s;
+  }
+  .wave:nth-child(10) {
+    animation-delay: 0.9s;
+  }
+  
+  @keyframes wave {
+    0% {
+      transform: scale(0);
+    }
+    50% {
+      transform: scale(1);
+    }
+    100% {
+      transform: scale(0);
+    }
+  }
+
+  .fa.fa-heart {
+    color:red;
+  }
+  .footer p {
+    color:gray;
+  }
+
+  .icon.skills {
+    display:flex;
+    flex-direction: column;
+    flex-wrap:wrap;
+  }
+  .content.skills {
+    height:45vh;
+  }
+
+  svg {
+    height: 50px;
+    margin: 0 20px;
+    fill: #3273DC;
+
+  }
+  
+  
