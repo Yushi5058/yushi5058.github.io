@@ -1,24 +1,20 @@
 
-# Portfolio Website
 
-First project using html & css and powered by the framework bulma.io
-This project will have many versions as soon as I learn new things to make it better.
+# About
+This is my first project and it's my portfolio website. The website is not filled up completely at the moment.
 
-My first version contains a basic portfolio website with beautiful colours, a navbar and differents sections describing each side of the navbar.
+I hope you like the new design!
 
-## Authors
+# To-Do List
 
-- [@yushi5058](https://www.github.com/yushi5058)
+* make the website responsive
+* add logo header / profile picture 
+* add experiences and work section 
+* add a resume google docs link
+* add some javascript fuctionnalities
 
+# Feedback
 
+If you have any feedback about my project, contact me [here](eliaschakroun.01@gmail.com). 
 
-
-## Feedback
-
-If you have any feedback, please reach out to us at eliaschakroun.contact@gmail.com
-
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
+Thank you for taking your time!
