@@ -43,10 +43,6 @@ body {
     line-height: 1.6;
 }
 
-img {
-    display: block;
-    max-width: 100%;
-}
 
 strong { font-weight: var(--fw-bold) }
 
